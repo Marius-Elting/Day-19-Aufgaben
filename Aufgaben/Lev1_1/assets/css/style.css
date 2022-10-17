@@ -1,0 +1,14 @@
+body {
+    display: grid;
+    justify-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+    ;
+}
+
+button {
+    padding: 20px
+}
